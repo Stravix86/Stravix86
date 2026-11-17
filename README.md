@@ -15,7 +15,7 @@ I'm into IT, networking, linux and chess. Sometimes I build web apps and small d
 
 <img src="assets/h-languages.svg" alt="Languages and tools" height="44">
 
-<img src="assets/skills.svg" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust, Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel" width="638">
+<img src="assets/stack.svg" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust, Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel" width="638">
 
 <img src="assets/divider.svg" alt="" width="100%" height="8">
 
