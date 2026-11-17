@@ -14,6 +14,14 @@ A web and Android app for running a team chess league: live boards, standings, p
 
 [Live site](https://chess-mangrove-sports.vercel.app) · [Android APK](https://github.com/Stravix86/chess-mangrove-showcase/releases/latest/download/ChessMangrove.apk) · [Details](https://github.com/Stravix86/chess-mangrove-showcase)
 
+#### Private PDF
+
+<a href="https://github.com/Stravix86/private-pdf"><img src="assets/private-pdf.png" alt="Private PDF" width="100%"></a>
+
+A PDF toolkit that runs on your device: merge, split, compress, sign, fill forms, add page numbers and convert to and from images. Files are never uploaded, and it works offline.
+
+[Web](https://stravix86.github.io/private-pdf/) · [Windows](https://github.com/Stravix86/private-pdf/releases/latest/download/PrivatePDF-windows.exe) · [Android](https://github.com/Stravix86/private-pdf/releases/latest/download/PrivatePDF-android.apk) · [Source](https://github.com/Stravix86/private-pdf)
+
 #### Utilities
 
 All open source. No accounts, no tracking; data stays on your device.
