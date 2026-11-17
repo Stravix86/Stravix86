@@ -9,7 +9,7 @@
   <a href="https://lichess.org/@/Stravik"><img src="https://img.shields.io/badge/Lichess-262421?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess"></a>
 </p>
 
-Based in Ontario, Canada, with a background in IT and networking. I build web apps and small desktop and mobile tools, mostly around things I use myself, and a lot of them end up being about chess.
+I'm into IT, networking, linux and chess. Sometimes I build web apps and small desktop and mobile tools, mostly around things I use myself, and a lot of them end up being about chess.
 
 <img src="assets/divider.svg" alt="" width="100%" height="8">
 
