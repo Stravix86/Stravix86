@@ -1,10 +1,22 @@
-### Ade
+<img src="assets/banner.png" alt="Ade (Stravix86)" width="100%">
 
-Developer based in Ontario, Canada. I work on web apps and small desktop and mobile utilities, mostly in TypeScript and JavaScript. Background in IT and networking.
+<p align="center">
+  <a href="https://x.com/stravix86"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.tiktok.com/@stravix86"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.chess.com/member/strav1k"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"></a>
+  <a href="https://lichess.org/@/Stravik"><img src="https://img.shields.io/badge/Lichess-262421?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess"></a>
+</p>
 
-[X](https://x.com/stravix86) · [TikTok](https://www.tiktok.com/@stravix86) · [Chess.com](https://www.chess.com/member/strav1k) · [Lichess](https://lichess.org/@/Stravik)
+Based in Ontario, Canada, with a background in IT and networking. I build web apps and small desktop and mobile tools, mostly around things I use myself, and a lot of them end up being about chess.
 
----
+### Languages and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,java,rust&perline=8" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,firebase,tauri,androidstudio,git,githubactions,vercel&perline=8" alt="Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel">
+</p>
+
+### Projects
 
 #### Chess Mangrove
 
@@ -65,6 +77,21 @@ Command-line tool that summarizes a repository's commit history as an HTML repor
 </tr>
 </table>
 
-#### Tools
+### Chess
 
-React, TypeScript, JavaScript, Python, Firebase, Tauri, Android, GitHub Actions, Vercel
+Current ratings, updated live from Lichess and Chess.com:
+
+<p>
+  <a href="https://lichess.org/@/Stravik"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FStravik&query=%24.perfs.bullet.rating&label=Lichess%20bullet&logo=lichess&logoColor=white&color=262421&style=flat-square" alt="Lichess bullet rating"></a>
+  <a href="https://lichess.org/@/Stravik"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flichess.org%2Fapi%2Fuser%2FStravik&query=%24.perfs.blitz.rating&label=Lichess%20blitz&logo=lichess&logoColor=white&color=262421&style=flat-square" alt="Lichess blitz rating"></a>
+  <a href="https://www.chess.com/member/strav1k"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fstrav1k%2Fstats&query=%24.chess_bullet.last.rating&label=Chess.com%20bullet&logo=chessdotcom&logoColor=white&color=4E7837&style=flat-square" alt="Chess.com bullet rating"></a>
+  <a href="https://www.chess.com/member/strav1k"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fstrav1k%2Fstats&query=%24.chess_blitz.last.rating&label=Chess.com%20blitz&logo=chessdotcom&logoColor=white&color=4E7837&style=flat-square" alt="Chess.com blitz rating"></a>
+</p>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stravix86/Stravix86/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stravix86/Stravix86/output/github-snake.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Stravix86/Stravix86/output/github-snake.svg">
+</picture>
