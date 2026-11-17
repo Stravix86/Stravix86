@@ -11,13 +11,9 @@
 
 I'm into IT, networking, linux and chess. Sometimes I build web apps and small desktop and mobile tools, mostly around things I use myself, and a lot of them end up being about chess.
 
-<img src="assets/divider.svg" alt="" width="100%" height="8">
-
 <img src="assets/h-languages.svg" alt="Languages and tools" height="44">
 
 <img src="assets/stack.svg" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust, Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel" width="638">
-
-<img src="assets/divider.svg" alt="" width="100%" height="8">
 
 <img src="assets/h-projects.svg" alt="Projects" height="44">
 
@@ -79,8 +75,6 @@ Command-line tool that summarizes a repository's commit history as an HTML repor
 </td>
 </tr>
 </table>
-
-<img src="assets/divider.svg" alt="" width="100%" height="8">
 
 <img src="assets/h-chess.svg" alt="Chess" height="44">
 
