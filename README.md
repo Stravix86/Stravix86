@@ -6,7 +6,7 @@
 
 Ontario, Canada · IT, networking, programming and chess ♟
 
-[𝕏 @stravix86](https://x.com/stravix86) · [TikTok](https://www.tiktok.com/@stravix86) · [Chess.com](https://www.chess.com/member/strav1k)
+[𝕏 @stravix86](https://x.com/stravix86) · [TikTok](https://www.tiktok.com/@stravix86) · [Chess.com](https://www.chess.com/member/strav1k) · [Lichess](https://lichess.org/@/Stravik)
 
 </div>
 
