@@ -22,6 +22,14 @@ A PDF toolkit that runs on your device: merge, split, compress, sign, fill forms
 
 [Web](https://stravix86.github.io/private-pdf/) · [Windows](https://github.com/Stravix86/private-pdf/releases/latest/download/PrivatePDF-windows.exe) · [Android](https://github.com/Stravix86/private-pdf/releases/latest/download/PrivatePDF-android.apk) · [Source](https://github.com/Stravix86/private-pdf)
 
+#### Opening Leak Finder
+
+<a href="https://github.com/Stravix86/opening-leaks"><img src="assets/opening-leaks.png" alt="Opening Leak Finder" width="100%"></a>
+
+Analyses a player's Lichess games and finds the opening lines where they score below what the ratings predict, with engine checks from the Lichess cloud evaluation database and a repertoire explorer.
+
+[Web](https://stravix86.github.io/opening-leaks/) · [Example](https://stravix86.github.io/opening-leaks/?user=Stravik) · [Source](https://github.com/Stravix86/opening-leaks)
+
 #### Utilities
 
 All open source. No accounts, no tracking; data stays on your device.
