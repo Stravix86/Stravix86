@@ -87,11 +87,3 @@ Current ratings, updated live from Lichess and Chess.com:
   <a href="https://www.chess.com/member/strav1k"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fstrav1k%2Fstats&query=%24.chess_bullet.last.rating&label=Chess.com%20bullet&logo=chessdotcom&logoColor=white&color=4E7837&style=flat-square" alt="Chess.com bullet rating"></a>
   <a href="https://www.chess.com/member/strav1k"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fstrav1k%2Fstats&query=%24.chess_blitz.last.rating&label=Chess.com%20blitz&logo=chessdotcom&logoColor=white&color=4E7837&style=flat-square" alt="Chess.com blitz rating"></a>
 </p>
-
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stravix86/Stravix86/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stravix86/Stravix86/output/github-snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Stravix86/Stravix86/output/github-snake.svg">
-</picture>
