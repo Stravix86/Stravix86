@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" width="1600" height="400" role="img" aria-label="Ade (Stravix86)">
+  <title>Ade (Stravix86)</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="400" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.5" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#0a1a14"/>
+    </linearGradient>
+    <radialGradient id="blueGlow">
+      <stop offset="0" stop-color="#2f6feb" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="greenGlow">
+      <stop offset="0" stop-color="#2ea043" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2ea043" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow">
+      <stop offset="0" stop-color="#8957e5" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8957e5" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- name: a gradient that slides across the letters -->
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.35" stop-color="#79c0ff"/>
+      <stop offset="0.7" stop-color="#56d364"/>
+      <stop offset="1" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1040 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+
+    <!-- chessboard that drifts slowly; one full pattern tile is 100 x 100 -->
+    <pattern id="board" width="100" height="100" patternUnits="userSpaceOnUse">
+      <rect width="50" height="50" fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="50" y="50" width="50" height="50" fill="#ffffff" fill-opacity="0.07"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="100 100" dur="16s" repeatCount="indefinite"/>
+    </pattern>
+    <linearGradient id="boardFade" x1="760" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#fff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="boardMask">
+      <rect width="1600" height="400" fill="url(#boardFade)"/>
+    </mask>
+
+    <radialGradient id="knightHalo">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.35"/>
+      <stop offset="0.6" stop-color="#3fb950" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .rise { animation: rise 1s cubic-bezier(.2,.7,.2,1) both; }
+      .d1 { animation-delay: .15s; }
+      .d2 { animation-delay: .35s; }
+      .d3 { animation-delay: .55s; }
+      @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+      .grow { transform-origin: 100px 0; animation: grow 1.2s .5s cubic-bezier(.2,.7,.2,1) both; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .float { animation: float 6s ease-in-out infinite; }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+      .halo { transform-origin: 1345px 205px; animation: pulse 6s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: .7; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .sans { font-family: 'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="400" fill="url(#bg)"/>
+
+  <!-- drifting glows -->
+  <circle r="420" fill="url(#blueGlow)">
+    <animate attributeName="cx" values="180;360;180" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="40;140;40" dur="22s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="380" fill="url(#purpleGlow)">
+    <animate attributeName="cx" values="760;600;760" dur="20s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="420;330;420" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="460" fill="url(#greenGlow)">
+    <animate attributeName="cx" values="1380;1240;1380" dur="19s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="260;160;260" dur="23s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect width="1600" height="400" fill="url(#board)" mask="url(#boardMask)"/>
+
+  <!-- knight -->
+  <circle class="halo" cx="1345" cy="205" r="210" fill="url(#knightHalo)"/>
+  <g class="float">
+    <g transform="translate(1195 52) scale(6.6)" fill="none" fill-rule="evenodd" stroke="#0d1117" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+      <path fill="#eef2f8" d="M22 10c10.5 1 16.5 8 16 29H15c0-9 10-6.5 8-21"/>
+      <path fill="#eef2f8" d="M24 18c.38 2.91-5.55 7.37-8 9-3 2-2.82 4.34-5 4-1.042-.94 1.41-3.04 0-3-1 0 .19 1.23-1 2-1 0-4.003 1-4-4 0-2 6-12 6-12s1.89-1.9 2-3.5c-.73-.994-.5-2-.5-3 1-1 3 2.5 3 2.5h2s.78-1.992 2.5-3c1 0 1 3 1 3"/>
+      <path fill="#0d1117" d="M9.5 25.5a.5.5 0 1 1-1 0 .5.5 0 1 1 1 0m5.433-9.75a.5 1.5 30 1 1-.866-.5.5 1.5 30 1 1 .866.5"/>
+    </g>
+  </g>
+
+  <!-- text -->
+  <g class="rise">
+    <text x="96" y="190" class="sans" font-size="136" font-weight="800" letter-spacing="-2" fill="url(#nameGrad)">Ade</text>
+  </g>
+  <rect class="grow" x="100" y="222" width="96" height="5" rx="2.5" fill="url(#lineGrad)"/>
+  <g class="rise d1">
+    <text x="100" y="278" class="mono" font-size="30" fill="#79c0ff">Stravix86<tspan class="cursor" fill="#56d364">_</tspan></text>
+  </g>
+  <g class="rise d2">
+    <text x="100" y="330" class="sans" font-size="27" fill="#a8b3c2">Ontario, Canada  ·  IT and networking  ·  chess</text>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 48" width="900" height="48" role="img" aria-label="Web apps, desktop tools and Android apps / Private PDF  ·  Opening Leak Finder  ·  Chess Mangrove / Lichess: Stravik  ·  Chess.com: strav1k">
+  <title>Web apps, desktop tools and Android apps / Private PDF  ·  Opening Leak Finder  ·  Chess Mangrove / Lichess: Stravik  ·  Chess.com: strav1k</title>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="22" fill="url(#g)">
+  <clipPath id="c0"><rect x="183.0" y="0" height="48" width="0">
+    <animate attributeName="width" values="0;534.0;534.0;0;0" keyTimes="0;0.1185;0.2815;0.3185;1" dur="13.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="183.0" y="31" clip-path="url(#c0)" textLength="528.0" lengthAdjust="spacingAndGlyphs">Web apps, desktop tools and Android apps</text>
+  <rect y="12" width="3" height="26" rx="1.5" fill="url(#g)" opacity="0">
+    <animate attributeName="x" values="183.0;717.0;717.0;183.0;183.0" keyTimes="0;0.1185;0.2815;0.3185;1" dur="13.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.1185;0.2815;0.3185;1" dur="13.5s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="c1"><rect x="90.6" y="0" height="48" width="0">
+    <animate attributeName="width" values="0;0;718.8;718.8;0;0" keyTimes="0;0.3333;0.4519;0.6148;0.6519;1" dur="13.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="90.6" y="31" clip-path="url(#c1)" textLength="712.8" lengthAdjust="spacingAndGlyphs">Private PDF  ·  Opening Leak Finder  ·  Chess Mangrove</text>
+  <rect y="12" width="3" height="26" rx="1.5" fill="url(#g)" opacity="0">
+    <animate attributeName="x" values="90.6;90.6;809.4;809.4;90.6;90.6" keyTimes="0;0.3333;0.4519;0.6148;0.6519;1" dur="13.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.3333;0.4519;0.6148;0.6519;1" dur="13.5s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="c2"><rect x="189.6" y="0" height="48" width="0">
+    <animate attributeName="width" values="0;0;520.8;520.8;0;0" keyTimes="0;0.6667;0.7852;0.9481;0.9852;1" dur="13.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+  <text x="189.6" y="31" clip-path="url(#c2)" textLength="514.8" lengthAdjust="spacingAndGlyphs">Lichess: Stravik  ·  Chess.com: strav1k</text>
+  <rect y="12" width="3" height="26" rx="1.5" fill="url(#g)" opacity="0">
+    <animate attributeName="x" values="189.6;189.6;710.4;710.4;189.6;189.6" keyTimes="0;0.6667;0.7852;0.9481;0.9852;1" dur="13.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.6667;0.7852;0.9481;0.9852;1" dur="13.5s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  </g>
+</svg>

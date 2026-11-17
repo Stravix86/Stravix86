@@ -1,4 +1,6 @@
-<img src="assets/banner.png" alt="Ade (Stravix86)" width="100%">
+<img src="assets/banner.svg" alt="Ade (Stravix86)" width="100%">
+
+<p align="center"><img src="assets/typing.svg" alt="Web apps, desktop tools and Android apps. Private PDF, Opening Leak Finder, Chess Mangrove. Lichess: Stravik, Chess.com: strav1k" width="640"></p>
 
 <p align="center">
   <a href="https://x.com/stravix86"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
@@ -9,14 +11,18 @@
 
 Based in Ontario, Canada, with a background in IT and networking. I build web apps and small desktop and mobile tools, mostly around things I use myself, and a lot of them end up being about chess.
 
-### Languages and tools
+<img src="assets/divider.svg" alt="" width="100%" height="8">
+
+<img src="assets/h-languages.svg" alt="Languages and tools" height="44">
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,java,rust&perline=8" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust"><br>
   <img src="https://skillicons.dev/icons?i=nodejs,vite,firebase,tauri,androidstudio,git,githubactions,vercel&perline=8" alt="Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel">
 </p>
 
-### Projects
+<img src="assets/divider.svg" alt="" width="100%" height="8">
+
+<img src="assets/h-projects.svg" alt="Projects" height="44">
 
 #### Chess Mangrove
 
@@ -77,7 +83,9 @@ Command-line tool that summarizes a repository's commit history as an HTML repor
 </tr>
 </table>
 
-### Chess
+<img src="assets/divider.svg" alt="" width="100%" height="8">
+
+<img src="assets/h-chess.svg" alt="Chess" height="44">
 
 Current ratings, updated live from Lichess and Chess.com:
 

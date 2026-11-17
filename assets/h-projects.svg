@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60" role="img" aria-label="Projects">
+  <title>Projects</title>
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#3fb950"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="440 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="u" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#3fb950" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .bar { transform-origin: 2px 0; animation: grow 1.2s cubic-bezier(.2,.7,.2,1) both; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    </style>
+  </defs>
+  <text x="2" y="36" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="url(#t)">Projects</text>
+  <rect class="bar" x="2" y="50" width="216" height="4" rx="2" fill="url(#u)"/>
+</svg>
