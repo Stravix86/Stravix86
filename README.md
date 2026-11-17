@@ -15,10 +15,7 @@ Based in Ontario, Canada, with a background in IT and networking. I build web ap
 
 <img src="assets/h-languages.svg" alt="Languages and tools" height="44">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,java,rust&perline=8" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust"><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,vite,firebase,tauri,androidstudio,git,githubactions,vercel&perline=8" alt="Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel">
-</p>
+<img src="assets/skills.svg" alt="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust, Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel" width="638">
 
 <img src="assets/divider.svg" alt="" width="100%" height="8">
 
