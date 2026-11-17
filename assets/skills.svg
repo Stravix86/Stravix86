@@ -1,67 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 638 170" width="638" height="170" role="img" aria-label="TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust, Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel">
   <title>TypeScript, JavaScript, React, HTML, CSS, Python, Java, Rust, Node.js, Vite, Firebase, Tauri, Android Studio, Git, GitHub Actions, Vercel</title>
   <defs>
-    <clipPath id="tile"><rect width="64" height="64" rx="15.0"/></clipPath>
-    <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#fff" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-    </linearGradient>
     <style>
   .bob { animation: bob 4.8s ease-in-out infinite; }
   @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
   .pop { transform-box: fill-box; transform-origin: center; animation: pop .7s cubic-bezier(.3,1.6,.5,1) both; }
   @keyframes pop { from { opacity: 0; transform: scale(.4) rotate(-12deg); } to { opacity: 1; transform: none; } }
-  .shine { animation: shine 7s ease-in-out infinite; }
-  @keyframes shine { 0% { transform: translateX(-90px); } 14%, 100% { transform: translateX(90px); } }
   .n0 .bob { animation-delay: -0.00s; }
   .n0 .pop { animation-delay: 0.00s; }
-  .n0 .shine { animation-delay: 1.20s; }
   .n1 .bob { animation-delay: -0.18s; }
   .n1 .pop { animation-delay: 0.05s; }
-  .n1 .shine { animation-delay: 1.29s; }
   .n2 .bob { animation-delay: -0.36s; }
   .n2 .pop { animation-delay: 0.10s; }
-  .n2 .shine { animation-delay: 1.38s; }
   .n3 .bob { animation-delay: -0.54s; }
   .n3 .pop { animation-delay: 0.15s; }
-  .n3 .shine { animation-delay: 1.47s; }
   .n4 .bob { animation-delay: -0.72s; }
   .n4 .pop { animation-delay: 0.20s; }
-  .n4 .shine { animation-delay: 1.56s; }
   .n5 .bob { animation-delay: -0.90s; }
   .n5 .pop { animation-delay: 0.25s; }
-  .n5 .shine { animation-delay: 1.65s; }
   .n6 .bob { animation-delay: -1.08s; }
   .n6 .pop { animation-delay: 0.30s; }
-  .n6 .shine { animation-delay: 1.74s; }
   .n7 .bob { animation-delay: -1.26s; }
   .n7 .pop { animation-delay: 0.35s; }
-  .n7 .shine { animation-delay: 1.83s; }
   .n8 .bob { animation-delay: -0.50s; }
   .n8 .pop { animation-delay: 0.40s; }
-  .n8 .shine { animation-delay: 1.32s; }
   .n9 .bob { animation-delay: -0.68s; }
   .n9 .pop { animation-delay: 0.45s; }
-  .n9 .shine { animation-delay: 1.41s; }
   .n10 .bob { animation-delay: -0.86s; }
   .n10 .pop { animation-delay: 0.50s; }
-  .n10 .shine { animation-delay: 1.50s; }
   .n11 .bob { animation-delay: -1.04s; }
   .n11 .pop { animation-delay: 0.55s; }
-  .n11 .shine { animation-delay: 1.59s; }
   .n12 .bob { animation-delay: -1.22s; }
   .n12 .pop { animation-delay: 0.60s; }
-  .n12 .shine { animation-delay: 1.68s; }
   .n13 .bob { animation-delay: -1.40s; }
   .n13 .pop { animation-delay: 0.65s; }
-  .n13 .shine { animation-delay: 1.77s; }
   .n14 .bob { animation-delay: -1.58s; }
   .n14 .pop { animation-delay: 0.70s; }
-  .n14 .shine { animation-delay: 1.86s; }
   .n15 .bob { animation-delay: -1.76s; }
   .n15 .pop { animation-delay: 0.75s; }
-  .n15 .shine { animation-delay: 1.95s; }
   </style>
   </defs>
   <g class="n0" transform="translate(14 14)">
@@ -74,7 +50,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n1" transform="translate(92 14)">
@@ -92,7 +67,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n2" transform="translate(170 14)">
@@ -105,7 +79,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n3" transform="translate(248 14)">
@@ -118,7 +91,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n4" transform="translate(326 14)">
@@ -138,7 +110,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n5" transform="translate(404 14)">
@@ -151,7 +122,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n6" transform="translate(482 14)">
@@ -164,7 +134,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n7" transform="translate(560 14)">
@@ -177,7 +146,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n8" transform="translate(14 92)">
@@ -190,7 +158,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n9" transform="translate(92 92)">
@@ -219,7 +186,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n10" transform="translate(170 92)">
@@ -232,7 +198,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n11" transform="translate(248 92)">
@@ -245,7 +210,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n12" transform="translate(326 92)">
@@ -268,7 +232,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n13" transform="translate(404 92)">
@@ -281,7 +244,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n14" transform="translate(482 92)">
@@ -311,7 +273,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
   <g class="n15" transform="translate(560 92)">
@@ -328,7 +289,6 @@
         </g>
         
   </svg>
-      <g clip-path="url(#tile)"><g transform="skewX(-20)"><rect class="shine" x="-30" y="-10" width="34" height="84" fill="url(#gloss)"/></g></g>
     </g></g>
   </g>
 </svg>
